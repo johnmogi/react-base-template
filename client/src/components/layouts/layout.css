@@ -1,0 +1,9 @@
+.container {
+    margin: 0 auto;
+    display: block;
+    max-width: 1480px;
+}
+
+footer {
+    text-align: center;
+}
